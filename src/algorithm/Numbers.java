@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Random;
 
 
-public class Numbers {
+public class  Numbers {
 
 	/*
 	 * Show all the different kind of sorting algorithm by applying into (num array).
