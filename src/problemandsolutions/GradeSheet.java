@@ -21,7 +21,6 @@ public class GradeSheet {
     //
     //Your grade is B.
 
-
     public static void main(String[] args) {
         double quiz, mid_term, final_term,score;
         Scanner sc= new Scanner(System.in);
