@@ -3,13 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="b533036d-9a6c-47ac-a051-580b895fa47b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemandsolutions/GradeSheet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problemandsolutions/GradeSheet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemandsolutions/SearchElementOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problemandsolutions/SearchElementOfArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/definition/core-java-conceptual-questions" beforeDir="false" afterPath="$PROJECT_DIR$/src/definition/core-java-conceptual-questions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/problems/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/problems/Anagram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="MidTermWeekDaysDecember2019" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -20,11 +23,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="1386" />
-    <option name="height" value="788" />
   </component>
   <component name="ProjectId" id="1WSOITXdz46SAqWwv1stFJBf87z" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -172,34 +170,42 @@
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state x="556" y="326" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.812@0.23.1440.812" timestamp="1579139642829" />
-    <state width="1358" height="183" key="GridCell.Tab.0.bottom" timestamp="1579233399290">
-      <screen x="0" y="23" width="1440" height="812" />
+    <state width="1358" height="183" key="GridCell.Tab.0.bottom" timestamp="1579254952987">
+      <screen x="0" y="23" width="1440" height="814" />
     </state>
-    <state width="1358" height="183" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1579233399290" />
+    <state width="1358" height="183" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1579233486519" />
+    <state width="1358" height="183" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1579254952987" />
     <state width="1358" height="183" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1579148386216" />
     <state width="1358" height="183" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1579147518465" />
-    <state width="1358" height="183" key="GridCell.Tab.0.center" timestamp="1579233399288">
-      <screen x="0" y="23" width="1440" height="812" />
+    <state width="1358" height="183" key="GridCell.Tab.0.center" timestamp="1579254952969">
+      <screen x="0" y="23" width="1440" height="814" />
     </state>
-    <state width="1358" height="183" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1579233399288" />
+    <state width="1358" height="183" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1579233486517" />
+    <state width="1358" height="183" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1579254952969" />
     <state width="1358" height="183" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1579148386215" />
     <state width="1358" height="183" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1579147518463" />
-    <state width="1358" height="183" key="GridCell.Tab.0.left" timestamp="1579233399287">
-      <screen x="0" y="23" width="1440" height="812" />
+    <state width="1358" height="183" key="GridCell.Tab.0.left" timestamp="1579254952967">
+      <screen x="0" y="23" width="1440" height="814" />
     </state>
-    <state width="1358" height="183" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1579233399287" />
+    <state width="1358" height="183" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1579233486517" />
+    <state width="1358" height="183" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1579254952967" />
     <state width="1358" height="183" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1579148386214" />
     <state width="1358" height="183" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1579147518462" />
-    <state width="1358" height="183" key="GridCell.Tab.0.right" timestamp="1579233399289">
-      <screen x="0" y="23" width="1440" height="812" />
+    <state width="1358" height="183" key="GridCell.Tab.0.right" timestamp="1579254952975">
+      <screen x="0" y="23" width="1440" height="814" />
     </state>
-    <state width="1358" height="183" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1579233399289" />
+    <state width="1358" height="183" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1579233486518" />
+    <state width="1358" height="183" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1579254952975" />
     <state width="1358" height="183" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1579148386215" />
     <state width="1358" height="183" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1579147518464" />
-    <state x="390" y="263" key="com.intellij.ide.util.TipDialog" timestamp="1579216618773">
+    <state x="390" y="263" key="com.intellij.ide.util.TipDialog" timestamp="1579297624359">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
-    <state x="390" y="263" key="com.intellij.ide.util.TipDialog/0.23.1440.812@0.23.1440.812" timestamp="1579216618773" />
+    <state x="390" y="263" key="com.intellij.ide.util.TipDialog/0.23.1440.812@0.23.1440.812" timestamp="1579297624359" />
+    <state x="405" y="132" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1579301824159">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="405" y="132" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.812@0.23.1440.812" timestamp="1579301824159" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
