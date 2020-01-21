@@ -1,7 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b533036d-9a6c-47ac-a051-580b895fa47b" name="Default Changelist" comment="" />
+    <list default="true" id="b533036d-9a6c-47ac-a051-580b895fa47b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/AbstractEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/mysql-connector-java-5.1.41-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/mysql-connector-java-6.0.6-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MidTermWeekDaysDecember2019/secret.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MidTermWeekDaysDecember2019/secret.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/Numbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/UnitTestSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/UnitTestSorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codelab/status/CsvReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codelab/status/CsvReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codelab/status/Trainee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codelab/status/Trainee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/databases/ConnectToMongoDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/databases/ConnectToMongoDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/databases/ConnectToSqlDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/databases/ConnectToSqlDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/databases/UnitTestConnectDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/databases/UnitTestConnectDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/databases/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/databases/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/CollectionView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/CollectionView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/DataReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/DataReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/UseArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/UseArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/UseMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/UseMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/UseQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/UseQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/EmployeeInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/EmployeeInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/FortuneEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/FortuneEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/UnitTestingEmployeeInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/UnitTestingEmployeeInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/excelreadandwrite/ReadExcelFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/excelreadandwrite/ReadExcelFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/excelreadandwrite/WriteExcelFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/excelreadandwrite/WriteExcelFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/json/parser/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/json/parser/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/json/parser/JsonReaderUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/json/parser/JsonReaderUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/problems/MergeTwoArraysAndRemoveDuplicatesProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/problems/MergeTwoArraysAndRemoveDuplicatesProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/problems/Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/problems/Pattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/problems/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/problems/PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/problems/UnitTestingMath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/problems/UnitTestingMath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secret.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/secret.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/problems/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/problems/Anagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/problems/DetermineLargestWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/problems/DetermineLargestWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/problems/DuplicateWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/problems/DuplicateWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/problems/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/problems/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/problems/Permutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/problems/Permutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/problems/UnitTestingStringProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/problems/UnitTestingStringProblem.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +69,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579131214053" />
@@ -38,7 +79,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -50,13 +91,13 @@
       <recent name="G:\SOFTWARE ENGINEERING\PROJECTS\IdeaProjects\PNT\MidTermWeekDaysDecember2019\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PrimeNumber">
-    <configuration name="FindMissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.problems.FindMissingNumber" />
+  <component name="RunManager" selected="Application.UseQueue">
+    <configuration name="CollectionView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.CollectionView" />
       <module name="MidTermWeekDaysDecember2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="math.problems.*" />
+          <option name="PATTERN" value="datastructure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LowestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.problems.LowestNumber" />
+    <configuration name="DataReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.DataReader" />
       <module name="MidTermWeekDaysDecember2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="math.problems.*" />
+          <option name="PATTERN" value="datastructure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MakePyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.problems.MakePyramid" />
+    <configuration name="UseArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.UseArrayList" />
       <module name="MidTermWeekDaysDecember2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="math.problems.*" />
+          <option name="PATTERN" value="datastructure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.problems.PrimeNumber" />
+    <configuration name="UseMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.UseMap" />
       <module name="MidTermWeekDaysDecember2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="math.problems.*" />
+          <option name="PATTERN" value="datastructure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,31 +144,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnitTestingMath.testFactorialRecursive" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="UseQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.UseQueue" />
       <module name="MidTermWeekDaysDecember2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="math.problems.*" />
+          <option name="PATTERN" value="datastructure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="math.problems" />
-      <option name="MAIN_CLASS_NAME" value="math.problems.UnitTestingMath" />
-      <option name="METHOD_NAME" value="testFactorialRecursive" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrimeNumber" />
-        <item itemvalue="TestNG.UnitTestingMath.testFactorialRecursive" />
-        <item itemvalue="Application.MakePyramid" />
-        <item itemvalue="Application.LowestNumber" />
-        <item itemvalue="Application.FindMissingNumber" />
+        <item itemvalue="Application.UseQueue" />
+        <item itemvalue="Application.UseMap" />
+        <item itemvalue="Application.UseArrayList" />
+        <item itemvalue="Application.DataReader" />
+        <item itemvalue="Application.CollectionView" />
       </list>
     </recent_temporary>
   </component>
@@ -167,42 +203,51 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="542" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1579580696232">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="542" y="128" key="#com.intellij.ide.util.MemberChooser/0.23.1440.812@0.23.1440.812" timestamp="1579580696232" />
     <state x="556" y="326" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579139642829">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state x="556" y="326" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.812@0.23.1440.812" timestamp="1579139642829" />
-    <state width="1358" height="179" key="GridCell.Tab.0.bottom" timestamp="1579393953820">
+    <state width="1367" height="179" key="GridCell.Tab.0.bottom" timestamp="1579641221590">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
-    <state width="1358" height="179" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1579393953820" />
-    <state width="1358" height="183" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1579254952987" />
-    <state width="1358" height="183" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1579148386216" />
+    <state width="1367" height="179" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1579641221590" />
+    <state width="1367" height="179" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1579573857605" />
+    <state width="1367" height="179" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1579573256978" />
     <state width="1358" height="183" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1579147518465" />
-    <state width="1358" height="179" key="GridCell.Tab.0.center" timestamp="1579393953818">
+    <state width="1367" height="179" key="GridCell.Tab.0.center" timestamp="1579641221589">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
-    <state width="1358" height="179" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1579393953818" />
-    <state width="1358" height="183" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1579254952969" />
-    <state width="1358" height="183" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1579148386215" />
+    <state width="1367" height="179" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1579641221589" />
+    <state width="1367" height="179" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1579573857604" />
+    <state width="1367" height="179" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1579573256977" />
     <state width="1358" height="183" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1579147518463" />
-    <state width="1358" height="179" key="GridCell.Tab.0.left" timestamp="1579393953818">
+    <state width="1367" height="179" key="GridCell.Tab.0.left" timestamp="1579641221588">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
-    <state width="1358" height="179" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1579393953818" />
-    <state width="1358" height="183" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1579254952967" />
-    <state width="1358" height="183" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1579148386214" />
+    <state width="1367" height="179" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1579641221588" />
+    <state width="1367" height="179" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1579573857603" />
+    <state width="1367" height="179" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1579573256976" />
     <state width="1358" height="183" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1579147518462" />
-    <state width="1358" height="179" key="GridCell.Tab.0.right" timestamp="1579393953819">
+    <state width="1367" height="179" key="GridCell.Tab.0.right" timestamp="1579641221589">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
-    <state width="1358" height="179" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1579393953819" />
-    <state width="1358" height="183" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1579254952975" />
-    <state width="1358" height="183" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1579148386215" />
+    <state width="1367" height="179" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1579641221589" />
+    <state width="1367" height="179" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1579573857605" />
+    <state width="1367" height="179" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1579573256978" />
     <state width="1358" height="183" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1579147518464" />
-    <state x="390" y="263" key="com.intellij.ide.util.TipDialog" timestamp="1579297624359">
+    <state x="238" y="55" key="SettingsEditor" timestamp="1579580666817">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
-    <state x="390" y="263" key="com.intellij.ide.util.TipDialog/0.23.1440.812@0.23.1440.812" timestamp="1579297624359" />
+    <state x="238" y="55" key="SettingsEditor/0.23.1440.812@0.23.1440.812" timestamp="1579580666817" />
+    <state x="390" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1579573440315">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="390" y="263" key="com.intellij.ide.util.TipDialog/0.23.1440.812@0.23.1440.812" timestamp="1579560296742" />
+    <state x="390" y="264" key="com.intellij.ide.util.TipDialog/0.23.1440.814@0.23.1440.814" timestamp="1579573440315" />
     <state x="405" y="132" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1579301824159">
       <screen x="0" y="23" width="1440" height="812" />
     </state>

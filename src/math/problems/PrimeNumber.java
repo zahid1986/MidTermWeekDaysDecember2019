@@ -7,23 +7,33 @@ public class PrimeNumber {
 		 * Find list of Prime numbers from number 2 to 1 million.
 		 * Try the best solution as possible.Which will take less CPU life cycle.
 		 * Out put number of Prime numbers on the given range.
+		 *
+		 *
 		 * Use any databases[MongoDB, Oracle, MySql] to store data and retrieve data.
+		 *
 		 */
+		int i =0;
+		int num =0;
+		String primeNumbers = "";
 
-		int count = 0;
-		for (int i = 2; i < 1000000; i++) {
-
-			boolean isDivisible = false;
-			for (int j = 2; j < i / 2; j++)
-				if (i % j == 0) {
-					isDivisible = true;
-					break;
+		for (i = 1; i <= 1000000; i++)
+		{
+			int counter=0;
+			for(num =i; num>=1; num--)
+			{
+				if(i%num==0)
+				{
+					counter = counter + 1;
 				}
-
-			if (!isDivisible)
-				count++;
+			}
+			if (counter ==2)
+			{
+				primeNumbers = primeNumbers + i + " ";
+			}
 		}
-		System.out.println("Number of prime number between 1 and 1 million is " + count);
+		System.out.println("Prime numbers from 1 to 1000000 are :");
+		System.out.println(primeNumbers);
+
 	}
 
 }

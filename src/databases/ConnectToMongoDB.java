@@ -11,8 +11,6 @@ import parser.Student;
 import java.util.ArrayList;
 import java.util.List;
 
-
-
 public class ConnectToMongoDB {
 
     public static MongoDatabase mongoDatabase = null;

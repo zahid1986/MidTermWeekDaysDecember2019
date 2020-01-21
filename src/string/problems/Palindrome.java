@@ -7,11 +7,11 @@ public class Palindrome {
           Palindrome. So write java code to check if a given String is Palindrome or not.
          */
 
-        String x = "MADAM";
-        String y= "ZAHID";
-        System.out.println(isPalindrome(x) ? x + " is palindrome." : x + " is not palindrome");
-        System.out.println(isPalindrome(y) ? y + " is palindrome." : y + " is not palindrome");
+        String s = "MOM", t = "SISTER";
+        System.out.println(isPalindrome(s) ? s + " is palindrome." : s + " is not palindrome");
+        System.out.println(isPalindrome(t) ? t + " is palindrome." : t + " is not palindrome");
     }
+
     public static boolean isPalindrome(String s) {
 
         if (s.isEmpty()) {
